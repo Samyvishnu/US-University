@@ -1,8 +1,11 @@
 # US-University
 
+https://samyvishnu.github.io/US-University/
+
+
 Built a Data-Driven US University STEM Course Selection Assistant (307 Universities | 78 Disciplines)
 
-Choosing the right undergraduate STEM program in the U.S. is overwhelming—especially for international students navigating unfamiliar systems, visa considerations, English requirements, and high financial stakes.
+Choosing the right undergraduate STEM program in the U.S. is overwhelming—especially for international students and parents navigating unfamiliar systems, visa considerations, English requirements, and high financial stakes.
 
 So I decided to solve it.
 
